@@ -5,5 +5,5 @@ var emailError = document.getElementById("email-error");
 function validateEmail(){
     emailLabel.style.bottom = "45px";
 
-    //Improved email
+    //Improved email validation
 }
