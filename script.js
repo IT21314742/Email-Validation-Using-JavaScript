@@ -1,1 +1,1 @@
-var emailField = document.getElementById("email")
+var emailField = document.getElementById("email-field")
