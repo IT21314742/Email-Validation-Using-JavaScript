@@ -6,5 +6,5 @@ function validateEmail(){
     emailLabel.style.bottom = "45px";
 
     //Improved email validation using a reguler expression
-    var
+    var emailPattern
 }
