@@ -1,2 +1,2 @@
 var emailField = document.getElementById("email-field");
-var emailLabel = document.getElementById("email-label")
+var emailLabel = document.getElementById("email-label");
