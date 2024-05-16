@@ -6,5 +6,5 @@ function validateEmail(){
     emailLabel.style.bottom = "45px";
 
     //Improved email validation using a reguler expression
-    var emailPattern = 
+    var emailPattern = /^[A-Za-z._\-0-9]+@[A-Za-z]+\.[a-z]{2,4}$/;
 }
