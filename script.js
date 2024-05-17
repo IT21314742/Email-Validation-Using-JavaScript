@@ -11,6 +11,6 @@ function validateEmail(){
     if (!emailField.value.match(emailPattern)) {
         emailError.innerHTML = "Please Enter a valid Email";
         emailField.style.borderBottomColor = "red";
-        emailError.style.
+        emailError.style.top
     }
 }
