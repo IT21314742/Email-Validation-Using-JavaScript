@@ -2,7 +2,7 @@ var emailField = document.getElementById("email-field");
 var emailLabel = document.getElementById("email-label");
 var emailError = document.getElementById("email-error");
 
-function validateEmail(){
+function validateEmail() {
     emailLabel.style.bottom = "45px";
 
     //Improved email validation using a reguler expression
