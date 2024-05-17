@@ -9,6 +9,6 @@ function validateEmail(){
     var emailPattern = /^[A-Za-z._\-0-9]+@[A-Za-z]+\.[a-z]{2,4}$/;
 
     if (!emailField.value.match(emailPattern)) {
-        emailError.innerHTML = ""
+        emailError.innerHTML = "Please"
     }
 }
