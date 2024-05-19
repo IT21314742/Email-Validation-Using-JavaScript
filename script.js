@@ -15,5 +15,5 @@ function validateEmail() {
         return false;
     }
     emailError.innerHTML = "";
-    emailField.style.borderBottomColor = "green"
+    emailField.style.borderBottomColor = "green";
 }
