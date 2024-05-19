@@ -15,4 +15,5 @@ function validateEmail() {
         return false;
     }
     emailError.innerHTML = "";
+    
 }
