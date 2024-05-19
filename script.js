@@ -14,5 +14,5 @@ function validateEmail() {
         emailError.style.top = "120%";
         return false;
     }
-    emailError
+    emailError.
 }
