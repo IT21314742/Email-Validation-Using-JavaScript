@@ -11,3 +11,6 @@ Improve the reliability and user experience of your web forms with an Email Vali
 - **Seamless Integration:**  Easily integrate the Email Validator into existing web forms and applications for enhanced functionality and user input reliability.
 
 
+How to Use:
+
+
