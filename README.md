@@ -8,6 +8,6 @@ Improve the reliability and user experience of your web forms with an Email Vali
 
 - **Customizable Styles:** Tailor the appearance of the validation messages and input fields to match your application's design and branding.
 
-- **Seamless Integration:**  Easily integrate the
+- **Seamless Integration:**  Easily integrate the Email Validator into
 
 
