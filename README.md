@@ -14,8 +14,10 @@ Improve the reliability and user experience of your web forms with an Email Vali
 **How to Use:**
 
  1. **Clone** the repository to access the necessary files.
- 2. Embed the provided HTML,  CSS, and JavaScript code snippets into  your web application.
- 3. Customize styles and validation settings as needed to seamlessly integrate the Email Validator into your project.
+ 2. **Embed** the provided HTML,  CSS, and JavaScript code snippets into  your web application.
+ 3. **Customize** styles and validation settings as needed to seamlessly integrate the Email Validator into your project.
+
+         Enhance the accuracy and user experience of your web forms with this powerful Email Validator. Explore, contribute, and leverage this project to ensure the reliability and correctness of email inputs in your  applications.
 
 
 
