@@ -3,3 +3,5 @@ Improve the reliability and user experience of your web forms with an Email Vali
   **Key Features:**
 
 - **Accurate Validation:**  Leverage advanced JavaScript libraries to perform comprehensive email validation, ensuring only correctly formatted addresses are accepted.
+
+- 
