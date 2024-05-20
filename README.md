@@ -1,2 +1,1 @@
-# Email Validation Using JavaScript
- Email Validation Using JavaScript
+Improve the reliability
