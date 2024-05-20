@@ -6,5 +6,5 @@ Improve the reliability and user experience of your web forms with an Email Vali
 
 - **User-Friendly Interface:**  Provide instant feedback to users with clear and responsive validation messages, enhancing the overall user experience.
 
-- **Customizable Styles:**
+- **Customizable Styles:** Tailor the appearance
 
