@@ -14,6 +14,7 @@ Improve the reliability and user experience of your web forms with an Email Vali
 **How to Use:**
 
  1. Clone the repository to access the necessary files.
- 2. Embed the provided HTML,  CSS, and JavaScript code snippets into 
+ 2. Embed the provided HTML,  CSS, and JavaScript code snippets into  your web application.
+
 
 
